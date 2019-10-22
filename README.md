@@ -5,3 +5,8 @@
 ## Coding Dojo
 
 On the first iteration we will play around with momentjs
+
+## Other
+
+* .gitignore courtesy of https://github.com/github/gitignore/blob/master/Node.gitignore
+* ![momentjs](https://momentjs.com/)
